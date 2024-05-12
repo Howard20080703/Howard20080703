@@ -39,10 +39,6 @@
 
 ---
 
-©️靈魂鯊 版權所有
-
----
-
 # Hi there! 👋 I'm Soul Shark
 
 <p align="center">
@@ -84,4 +80,4 @@
 
 ---
 
-© 2024 Soul Shark. All Rights Reserved.
+© 2024 Soul Shark. All Rights Reserved. ©️靈魂鯊 版權所有
