@@ -19,12 +19,12 @@
 - Windows
 
 ## 📫 聯絡我的資訊
-- 電郵：[h97070311@gmail.com](mailto:h97070311@gmail.com)
+- 電子郵件Gamil：[h97070311@gmail.com](mailto:h97070311@gmail.com)
 
 ## 💼 工作室
 - 靈魂科技媒體工作室 - Soul Tech Media Studio
 
-## 💬 我的連結
+## 🔗 我的連結
 - 我的[YouTube](https://www.youtube.com/@shark_9773)
 - 我的[Twitch](https://www.twitch.tv/shark_9773)
 
