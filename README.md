@@ -1,7 +1,3 @@
-<!--
-**Howard20080703/Howard20080703** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
 # 嗨！👋 我是靈魂鯊
 
 <p align="center">
@@ -14,21 +10,23 @@
 * 💼 希望透過科技做出積極的影響。
 
 ## 🛠️ 工具與技術
-<p align="center">
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?logo=adobe-photoshop&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Adobe%20Premiere-9999FF.svg?logo=adobe-premiere-pro&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Discord-5865F2.svg?logo=discord&style=for-the-badge">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?logo=visual-studio-code&style=for-the-badge">
-</p>
+- Adobe Photoshop
+- Adobe Premiere
+- Discord
+- Visual Studio Code
 
 ## 💻 作業系統
-<p align="center">
-  <img src="https://img.shields.io/badge/Windows-0078D6.svg?logo=windows&style=for-the-badge">
-</p>
+- Windows
 
-## 🔗 聯絡我
-- [YouTube](https://www.youtube.com/@shark_9773)
-- [Twitch](https://www.twitch.tv/shark_9773)
+## 📫 聯絡我的資訊
+- 電郵：[h97070311@gmail.com](mailto:h97070311@gmail.com)
+
+## 💼 工作室
+- 靈魂科技媒體工作室 - Soul Tech Media Studio
+
+## 💬 我的連結
+- 我的[YouTube](https://www.youtube.com/@shark_9773)
+- 我的[Twitch](https://www.twitch.tv/shark_9773)
 
 ## ✨ GitHub 統計資料
 <p align="center">
