@@ -39,6 +39,10 @@
 
 ---
 
+©️靈魂鯊 版權所有
+
+---
+
 # Hi there! 👋 I'm Soul Shark
 
 <p align="center">
@@ -77,3 +81,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Howard20080703&layout=compact&theme=dracula">
 </p>
+
+---
+
+© 2024 Soul Shark. All Rights Reserved.
