@@ -12,6 +12,7 @@
 ## 🛠️ 工具與技術
 - Adobe Photoshop
 - Adobe Premiere
+- DaVinci Resolve
 - Discord
 - Visual Studio Code
 
@@ -53,6 +54,7 @@
 ## 🛠️ Tools & Tech
 - Adobe Photoshop
 - Adobe Premiere
+- DaVinci Resolve
 - Discord
 - Visual Studio Code
 
